@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C语音入门1", "C语音入门1\C语音入门1.vcxproj", "{13603D72-F4C3-404E-A15D-BD62F7268A85}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "c练习5.5", "c练习5.5\c练习5.5.vcxproj", "{7D9A5601-161A-4D97-B91B-B3242399F6BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{13603D72-F4C3-404E-A15D-BD62F7268A85}.Debug|Win32.ActiveCfg = Debug|Win32
-		{13603D72-F4C3-404E-A15D-BD62F7268A85}.Debug|Win32.Build.0 = Debug|Win32
-		{13603D72-F4C3-404E-A15D-BD62F7268A85}.Release|Win32.ActiveCfg = Release|Win32
-		{13603D72-F4C3-404E-A15D-BD62F7268A85}.Release|Win32.Build.0 = Release|Win32
+		{7D9A5601-161A-4D97-B91B-B3242399F6BB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7D9A5601-161A-4D97-B91B-B3242399F6BB}.Debug|Win32.Build.0 = Debug|Win32
+		{7D9A5601-161A-4D97-B91B-B3242399F6BB}.Release|Win32.ActiveCfg = Release|Win32
+		{7D9A5601-161A-4D97-B91B-B3242399F6BB}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
